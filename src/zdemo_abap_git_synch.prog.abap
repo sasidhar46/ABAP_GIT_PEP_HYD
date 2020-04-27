@@ -24,3 +24,5 @@
 REPORT  zdemo_abap_git_synch.
 
 write: 'This is programmer1'.
+
+Write: 'This is line2'.
