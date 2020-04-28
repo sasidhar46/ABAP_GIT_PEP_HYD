@@ -32,3 +32,5 @@ write: 'This is programmer2 - Line 3'.
 write: 'This is programmer2 - Line 4'.
 
 write: 'Line5'.
+
+write: 'Line6'.
